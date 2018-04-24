@@ -1,0 +1,6 @@
+hash: 3ed810026faa32e964e43532d1998d64231460f50f2b28e0f8db3f07818c5dbe
+updated: 2017-04-19T18:54:18.613208673-07:00
+imports:
+- name: github.com/juju/loggo
+  version: 21bc4c63e8b435779a080e39e592969b7b90b889
+testImports: []
