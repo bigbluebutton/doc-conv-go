@@ -1,8 +1,7 @@
-package docutils_test
+package docutils
 
 import (
 	"testing"
-	"docconv/docutils"
 )
 
 func TestGetFileType(t *testing.T) {

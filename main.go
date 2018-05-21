@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 	"os/exec"
-	docutils "docconv/docutils"
+	docutils "com.blindsidenetworks/doc-conv-go/docutils"
 )
 
 func getCPUmodel() string {
